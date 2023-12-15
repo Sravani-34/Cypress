@@ -5,6 +5,5 @@ describe('template spec', () => {
     cy.get('body').type("musunurisravani34@gmail.com")
     cy.get('#identifierNext > .VfPpkd-dgl2Hf-ppHlrf-sM5MNb > .VfPpkd-LgbsSe > .VfPpkd-vQzf8d').click()
     cy.get('.WpHeLc').click()
-    cy.get('#identifierNext > .VfPpkd-dgl2Hf-ppHlrf-sM5MNb > .VfPpkd-LgbsSe > .VfPpkd-vQzf8d').click()
    })
 })
